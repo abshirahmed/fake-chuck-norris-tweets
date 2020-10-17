@@ -1,0 +1,30 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.3.45/css/materialdesignicons.min.css);
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+    html,body{
+        @apply w-full h-full bg-gray-200;
+    }
+    h1 {
+        @apply text-h1;
+    }
+    h2 {
+        @apply text-h2;
+    }
+    h3 {
+        @apply text-h3;
+    }
+    h4 {
+        @apply text-h4;
+    }
+    h5 {
+        @apply text-h5;
+    }
+    h6 {
+        @apply text-h6;
+    }
+    p{
+        @apply text-p;
+    }
+}
