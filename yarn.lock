@@ -3436,10 +3436,10 @@ diffie-hellman@^5.0.0:
     miller-rabin "^4.0.0"
     randombytes "^2.0.0"
 
-diffusion@^6.5.2:
-  version "6.6.2"
-  resolved "https://registry.yarnpkg.com/diffusion/-/diffusion-6.6.2.tgz#6134f7d646c87c717a3902f13134a9c2fa7f4ff6"
-  integrity sha512-ZQgg6kxwPeF8WZFyzCLJEKjgBMM+lLbDjFHNVIw5Emvyf7isPcT0YkCDfEoEyx/g3AAZY3E1d8jYxvW86V9cPA==
+diffusion@^6.6.3:
+  version "6.6.3"
+  resolved "https://registry.yarnpkg.com/diffusion/-/diffusion-6.6.3.tgz#b53e3b5b819abd867df247042affa998eff2ca2e"
+  integrity sha512-PJU8ZwY2tA9poQ4F8fqrZTukRMfBxnubMXx+yDCmVIttPKQvie1b8q3XdyosNA3GGfKI8PFWm26W/OLnJrRFxQ==
   dependencies:
     "@types/core-js" "2.5.3"
     "@types/loglevel" "1.5.3"
