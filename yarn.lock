@@ -1234,11 +1234,6 @@
     anymatch "^3.0.0"
     source-map "^0.6.0"
 
-"@types/when@2.4.33":
-  version "2.4.33"
-  resolved "https://registry.yarnpkg.com/@types/when/-/when-2.4.33.tgz#9448fe142553af7cc47626569bb4bdefb00f9f2e"
-  integrity sha512-08Hn02uVEZ1dH5AXCMlnb26PS1HyIkDo32epUu/1KLuGugBaaIlHGeTJE9VpTIfM3s726/ZXyuloRsUistO3Lg==
-
 "@vue/babel-helper-vue-jsx-merge-props@^1.2.1":
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/@vue/babel-helper-vue-jsx-merge-props/-/babel-helper-vue-jsx-merge-props-1.2.1.tgz#31624a7a505fb14da1d58023725a4c5f270e6a81"
@@ -3294,11 +3289,6 @@ dedent@^0.7.0:
   resolved "https://registry.yarnpkg.com/dedent/-/dedent-0.7.0.tgz#2495ddbaf6eb874abb0e1be9df22d2e5a544326c"
   integrity sha1-JJXduvbrh0q7Dhvp3yLS5aVEMmw=
 
-deep-equal@1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/deep-equal/-/deep-equal-1.0.1.tgz#f5d260292b660e084eff4cdbc9f08ad3247448b5"
-  integrity sha1-9dJgKStmDghO/0zbyfCK0yR0SLU=
-
 deep-equal@^1.0.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/deep-equal/-/deep-equal-1.1.1.tgz#b5c98c942ceffaf7cb051e24e1434a25a2e6076a"
@@ -3436,18 +3426,16 @@ diffie-hellman@^5.0.0:
     miller-rabin "^4.0.0"
     randombytes "^2.0.0"
 
-diffusion@^6.5.2:
-  version "6.6.2"
-  resolved "https://registry.yarnpkg.com/diffusion/-/diffusion-6.6.2.tgz#6134f7d646c87c717a3902f13134a9c2fa7f4ff6"
-  integrity sha512-ZQgg6kxwPeF8WZFyzCLJEKjgBMM+lLbDjFHNVIw5Emvyf7isPcT0YkCDfEoEyx/g3AAZY3E1d8jYxvW86V9cPA==
+diffusion@^6.7.2:
+  version "6.7.2"
+  resolved "https://registry.yarnpkg.com/diffusion/-/diffusion-6.7.2.tgz#611a612d524bb3b2f3b670ea83d80accfe8b5eef"
+  integrity sha512-YIZGgIh+TCZMYWVRFZVm5BmgGm/UNk02MZZcl7beRQDxOXDW/hYFCaBJIi1UmHcBjPbU1pHABs/4IOjwOvRnTQ==
   dependencies:
     "@types/core-js" "2.5.3"
     "@types/loglevel" "1.5.3"
     "@types/long" "4.0.0"
     "@types/node" "8.10.38"
-    "@types/when" "2.4.33"
     core-js "3.6.5"
-    deep-equal "1.0.1"
     loglevel "1.6.1"
     long "4.0.0"
     ws "5.2.1"
