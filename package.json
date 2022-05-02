@@ -22,7 +22,7 @@
   ],
   "dependencies": {
     "core-js": "^3.6.5",
-    "diffusion": "^6.5.2",
+    "diffusion": "^6.8.2",
     "moment": "^2.29.1",
     "postcss-import": "^12.0.1",
     "tailwindcss": "^1.9.3",
