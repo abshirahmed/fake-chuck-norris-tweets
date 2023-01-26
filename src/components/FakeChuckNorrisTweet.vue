@@ -64,7 +64,7 @@ export default {
             fakeTweetTimestamp.value = moment().format('MMM Do h:mma');
           }
         });
-        session.select('chucknorris/joke');
+        session.select('chucknorris/value');
         return session;
       })
       .catch((error) => console.error(error.message));
